@@ -1,0 +1,36 @@
+# Compiled executables
+*.exe
+*.out
+calculator
+calculator.exe
+
+# Object files
+*.o
+*.obj
+
+# Library files
+*.a
+*.lib
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<text x="400" y="30" text-anchor="middle" font-size="18">Algorithm 2: Space usage</text>
+<text x="400" y="585" text-anchor="middle" font-size="14">log10(Theoretical space)</text>
+<text x="20" y="300" transform="rotate(-90,20,300)" text-anchor="middle" font-size="14">log10(Expanded nodes)</text>
+<circle cx="50.00" cy="550.00" r="5" fill="#1f77b4" />
+<text x="56.00" y="544.00" font-size="10">capability1</text>
+<circle cx="309.53" cy="298.90" r="5" fill="#1f77b4" />
+<text x="315.53" y="292.90" font-size="10">capability10</text>
+<circle cx="507.47" cy="54.60" r="5" fill="#1f77b4" />
+<text x="513.47" y="48.60" font-size="10">capability11</text>
+<circle cx="482.14" cy="308.09" r="5" fill="#1f77b4" />
+<text x="488.14" y="302.09" font-size="10">capability12</text>
+<circle cx="428.29" cy="304.25" r="5" fill="#1f77b4" />
+<text x="434.29" y="298.25" font-size="10">capability13</text>
+<circle cx="60.40" cy="531.78" r="5" fill="#1f77b4" />
+<text x="66.40" y="525.78" font-size="10">capability2</text>
+<circle cx="60.40" cy="531.78" r="5" fill="#1f77b4" />
+<text x="66.40" y="525.78" font-size="10">capability3</text>
+<circle cx="50.00" cy="550.00" r="5" fill="#1f77b4" />
+<text x="56.00" y="544.00" font-size="10">capability4</text>
+<circle cx="179.77" cy="487.72" r="5" fill="#1f77b4" />
+<text x="185.77" y="481.72" font-size="10">capability5</text>
+<circle cx="255.68" cy="477.69" r="5" fill="#1f77b4" />
+<text x="261.68" y="471.69" font-size="10">capability6</text>
+<circle cx="255.68" cy="477.69" r="5" fill="#1f77b4" />
+<text x="261.68" y="471.69" font-size="10">capability7</text>
+<circle cx="304.11" cy="380.50" r="5" fill="#1f77b4" />
+<text x="310.11" y="374.50" font-size="10">capability8</text>
+<circle cx="340.29" cy="289.40" r="5" fill="#1f77b4" />
+<text x="346.29" y="283.40" font-size="10">capability9</text>
+<circle cx="688.17" cy="92.69" r="5" fill="#1f77b4" />
+<text x="694.17" y="86.69" font-size="10">impassable1</text>
+<circle cx="750.00" cy="50.00" r="5" fill="#1f77b4" />
+<text x="756.00" y="44.00" font-size="10">impassable2</text>
+</svg>

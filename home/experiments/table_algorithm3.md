@@ -1,0 +1,17 @@
+| puzzle | execution_time | generated_nodes | aux_memory | num_pieces | steps | empty_spaces | solving_width | expanded_nodes | duplicated_nodes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| capability1 | 3.3e-05 | 3 | 0 | 1 | 1 | 34 | 1 | 2 | 0 |
+| capability10 | 0.002816 | 75 | 0 | 4 | 5 | 24 | 1 | 63 | 303 |
+| capability11 | 1.810962 | 164933 | 0 | 4 | 13 | 27 | 0 | 123702 | 219431 |
+| capability12 | 0.006437 | 666 | 0 | 2 | 11 | 30 | 0 | 580 | 1128 |
+| capability13 | 0.005743 | 715 | 0 | 2 | 8 | 31 | 0 | 589 | 1030 |
+| capability2 | 4.1e-05 | 5 | 0 | 1 | 1 | 36 | 1 | 3 | 1 |
+| capability3 | 6e-05 | 5 | 0 | 1 | 1 | 36 | 1 | 3 | 1 |
+| capability4 | 2.6e-05 | 2 | 0 | 1 | 1 | 34 | 1 | 2 | 0 |
+| capability5 | 0.000115 | 13 | 0 | 1 | 2 | 34 | 1 | 8 | 8 |
+| capability6 | 0.000251 | 17 | 0 | 1 | 3 | 34 | 1 | 10 | 10 |
+| capability7 | 0.000103 | 16 | 0 | 1 | 3 | 34 | 1 | 10 | 9 |
+| capability8 | 0.00108 | 91 | 0 | 2 | 4 | 32 | 1 | 61 | 192 |
+| capability9 | 0.002561 | 131 | 0 | 3 | 5 | 30 | 1 | 103 | 491 |
+| impassable1 | 1.264224 | 58551 | 0 | 6 | 46 | 17 | 0 | 52846 | 85852 |
+| impassable2 | 2.937377 | 146396 | 0 | 6 | 64 | 17 | 0 | 136546 | 222042 |

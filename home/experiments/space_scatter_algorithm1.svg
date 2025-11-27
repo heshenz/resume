@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<text x="400" y="30" text-anchor="middle" font-size="18">Algorithm 1: Space usage</text>
+<text x="400" y="585" text-anchor="middle" font-size="14">log10(Theoretical space)</text>
+<text x="20" y="300" transform="rotate(-90,20,300)" text-anchor="middle" font-size="14">log10(Expanded nodes)</text>
+<circle cx="50.00" cy="550.00" r="5" fill="#1f77b4" />
+<text x="56.00" y="544.00" font-size="10">capability1</text>
+<circle cx="50.00" cy="112.36" r="5" fill="#1f77b4" />
+<text x="56.00" y="106.36" font-size="10">capability10</text>
+<circle cx="50.00" cy="498.57" r="5" fill="#1f77b4" />
+<text x="56.00" y="492.57" font-size="10">capability2</text>
+<circle cx="50.00" cy="498.57" r="5" fill="#1f77b4" />
+<text x="56.00" y="492.57" font-size="10">capability3</text>
+<circle cx="50.00" cy="550.00" r="5" fill="#1f77b4" />
+<text x="56.00" y="544.00" font-size="10">capability4</text>
+<circle cx="50.00" cy="374.14" r="5" fill="#1f77b4" />
+<text x="56.00" y="368.14" font-size="10">capability5</text>
+<circle cx="50.00" cy="345.84" r="5" fill="#1f77b4" />
+<text x="56.00" y="339.84" font-size="10">capability6</text>
+<circle cx="50.00" cy="345.84" r="5" fill="#1f77b4" />
+<text x="56.00" y="339.84" font-size="10">capability7</text>
+<circle cx="50.00" cy="116.45" r="5" fill="#1f77b4" />
+<text x="56.00" y="110.45" font-size="10">capability8</text>
+<circle cx="50.00" cy="50.00" r="5" fill="#1f77b4" />
+<text x="56.00" y="44.00" font-size="10">capability9</text>
+</svg>

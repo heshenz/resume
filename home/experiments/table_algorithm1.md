@@ -1,0 +1,12 @@
+| puzzle | execution_time | generated_nodes | aux_memory | num_pieces | steps | empty_spaces | solving_width | expanded_nodes | duplicated_nodes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| capability1 | 4e-05 | 3 | 0 | 1 | 1 | 34 | 2 | 2 | 0 |
+| capability10 | 0.002677 | 75 | 0 | 4 | 5 | 24 | 5 | 63 | 303 |
+| capability2 | 7e-05 | 5 | 0 | 1 | 1 | 36 | 2 | 3 | 1 |
+| capability3 | 4.1e-05 | 5 | 0 | 1 | 1 | 36 | 2 | 3 | 1 |
+| capability4 | 3.5e-05 | 2 | 0 | 1 | 1 | 34 | 2 | 2 | 0 |
+| capability5 | 0.000114 | 13 | 0 | 1 | 2 | 34 | 2 | 8 | 8 |
+| capability6 | 0.000117 | 17 | 0 | 1 | 3 | 34 | 2 | 10 | 10 |
+| capability7 | 0.000172 | 16 | 0 | 1 | 3 | 34 | 2 | 10 | 9 |
+| capability8 | 0.001102 | 91 | 0 | 2 | 4 | 32 | 3 | 61 | 192 |
+| capability9 | 0.003405 | 131 | 0 | 3 | 5 | 30 | 4 | 103 | 491 |
